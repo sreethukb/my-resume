@@ -1,0 +1,10 @@
+img[alt="profile photo"]{
+    float: right;
+}
+#main{
+    text-align: center;
+}
+
+.center-text{
+    text-align: center;
+}

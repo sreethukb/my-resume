@@ -1,0 +1,9 @@
+img[alt="profile photo"]{
+    float: right;
+}
+
+
+.head{
+    background-color: thistle;
+    text-align: center;
+}
